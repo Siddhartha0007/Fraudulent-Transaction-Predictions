@@ -15,6 +15,5 @@ scikit-learn==0.24.2
 scipy
 sklearn==0.0
 threadpoolctl==2.2.0
-virtualenv==20.7.2
 Werkzeug==2.0.1
 xgboost==1.6.1
