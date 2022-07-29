@@ -56,9 +56,11 @@ Fraud Can happen mostly on financial transactions from your account and without 
 So, From above details we can conclude that FRAUD mostly happen under CASH out and TRANSFER. Our focus will be to check fraud under these type of transactions.
 ## About Dataset
 ![Screenshot](im1.png)
-
+## Different types of Transaction modes
 ![Screenshot](im2.png)
+## Percentages of of classes in the Target Columns
 ![Screenshot](im3.png)
+## Plots
 ![Screenshot](im4.png)
 ![Screenshot](im5.png)
 ![Screenshot](im6.png)
