@@ -66,3 +66,4 @@ So, From above details we can conclude that FRAUD mostly happen under CASH out a
 ## BAr Plot after under sampling using TomKlinks and NearMiss Intregation ..
 ![Screenshot](im6.png)
 
+![image](https://user-images.githubusercontent.com/98732778/181718492-e4b8d395-5af4-40f8-924d-231b4176bffc.png)
