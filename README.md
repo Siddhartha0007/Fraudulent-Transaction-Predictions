@@ -39,12 +39,7 @@ Types of fraud:-
 
 #### From Eda Analysis ,we came to know that the target column is not Properly Captured ,contains lots of Mis-Classifications,so we tried to fix it ,using Manual technique...
 
-Feature Engineering
-
-
-Different mode of transaction types:
-
-Lets discuss on the type of transactions in the dataset:
+### Different mode of transaction types:
 
 PAYMENT - Payment is like when we pay to any merchant or to any customer by way of digital transactions like UPI. In our dataset we have been given Payment details of only merchants and they are not provide with any account balance details. So, without knowing the balance details we are not sure that the transactions is Fraud or not. So, we will just drop these transactions as they are no use to us for modeling.
 
@@ -59,4 +54,12 @@ TRANSFER - In a money transfer fraud, the fraudster will approach you via email,
 Fraud Can happen mostly on financial transactions from your account and without your knowledge. It occurs when a criminal gains access to your card number—and in some cases, personal identification number to make unauthorized purchases or withdraw cash from your account. So, these type of transactions can only happen under TRANSFER and CASH OUT.
 
 So, From above details we can conclude that FRAUD mostly happen under CASH out and TRANSFER. Our focus will be to check fraud under these type of transactions.
+## About Dataset
 ![Screenshot](im1.png)
+
+![Screenshot](im2.png)
+![Screenshot](im3.png)
+![Screenshot](im4.png)
+![Screenshot](im5.png)
+![Screenshot](im6.png)
+
