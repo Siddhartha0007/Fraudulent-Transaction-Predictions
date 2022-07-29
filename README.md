@@ -58,10 +58,11 @@ So, From above details we can conclude that FRAUD mostly happen under CASH out a
 ![Screenshot](im1.png)
 ## Different types of Transaction modes
 ![Screenshot](im2.png)
-## Percentages of of classes in the Target Columns
+## Percentages oof classes in the Target Columns
 ![Screenshot](im3.png)
 ## Plots
 ![Screenshot](im4.png)
 ![Screenshot](im5.png)
+## BAr Plot after under sampling using TomKlinks and NearMiss Intregation ..
 ![Screenshot](im6.png)
 
