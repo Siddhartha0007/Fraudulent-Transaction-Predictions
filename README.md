@@ -59,4 +59,4 @@ TRANSFER - In a money transfer fraud, the fraudster will approach you via email,
 Fraud Can happen mostly on financial transactions from your account and without your knowledge. It occurs when a criminal gains access to your card number—and in some cases, personal identification number to make unauthorized purchases or withdraw cash from your account. So, these type of transactions can only happen under TRANSFER and CASH OUT.
 
 So, From above details we can conclude that FRAUD mostly happen under CASH out and TRANSFER. Our focus will be to check fraud under these type of transactions.
-![Screenshot](AI.png)
+![Screenshot](im1.png)
