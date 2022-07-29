@@ -67,4 +67,7 @@ So, From above details we can conclude that FRAUD mostly happen under CASH out a
 ![Screenshot](im6.png)
 ## Final Model Performance
 ![Screenshot](im7.png.png)
+# Deployment:
+## Version1:
+![Screenshot](im6.png)
 
