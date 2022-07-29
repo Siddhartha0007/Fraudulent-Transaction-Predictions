@@ -69,5 +69,9 @@ So, From above details we can conclude that FRAUD mostly happen under CASH out a
 ![Screenshot](im7.png.png)
 # Deployment:
 ## Version1:
-![Screenshot](im6.png)
+![Screenshot](im9.png.png)
+![Screenshot](im10.png.png)
+## Version2:
+![Screenshot](im8.png.png)
+
 
